@@ -56,4 +56,4 @@ I'm a third-year undergraduate Computer Science student at Ramanujan College wit
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devanshtyagi26)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devanshtyagi26&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
