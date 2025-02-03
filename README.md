@@ -48,10 +48,6 @@ I'm a third-year undergraduate Computer Science student at Ramanujan College wit
 
 ### 📊 Stats
 
-![Devansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=devanshtyagi26&show_icons=true&theme=radical)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=devanshtyagi26)
-
----
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devanshtyagi26&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img  width=400 src="https://nirzak-streak-stats.vercel.app/?user=devanshtyagi26&theme=tokyonight&hide_border=true" alt="Devansh Readme Streak" />
+<img  width=400 src="https://nirzak-stats.vercel.app/api?username=devanshtyagi26&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" alt="Devansh Readme Stats" />
+<img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshtyagi26&theme=tokyonight&layout=compact&langs_count=6&hide=tex,Yacc,Lex, html, jupyter%20notebook, css, EJS, blade&count_private=true" alt="nirzak_stats" /> 
