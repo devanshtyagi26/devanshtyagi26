@@ -50,7 +50,7 @@ I'm a third-year undergraduate Computer Science student at Ramanujan College wit
 
 ![Devansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=devanshtyagi26&show_icons=true&theme=radical)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=devanshtyagi26&theme=gruvbox&border_radius=4.5) -->
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=devanshtyagi26)
 
 ---
 
