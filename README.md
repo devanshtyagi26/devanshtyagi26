@@ -13,7 +13,7 @@ I'm a third-year undergraduate Computer Science student at Ramanujan College wit
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,html,css,javascript,react,nodejs,express,next,mongo,bootstrap,netlify,firebase,vercel,vite,opencv,svg,tensorflow,php,ubuntu,aws,mysql,bun,github,figma,flutter,git,linux,npm,p5js,vscode&perline=12" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,html,css,javascript,react,nodejs,express,next,mongo,bootstrap,netlify,firebase,vercel,vite,opencv,svg,tensorflow,php,ubuntu,aws,mysql,bun,github,figma,flutter,git,linux,npm,p5js,vscode&perline=16" />
   </a>
 
 <br>
