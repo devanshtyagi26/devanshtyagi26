@@ -13,12 +13,8 @@ I'm a third-year undergraduate Computer Science student at Ramanujan College wit
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,html,css,javascript,react,nodejs,express,next,mongo,bootstrap,netlify,firebase,vercel,vite,opencv,svg,tensorflow,php,ubuntu,aws,mysql,bun,github,figma,flutter,git,linux,npm,p5js,vscode&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,html,css,javascript,react,nodejs,express,next,mongo,bootstrap,netlify,firebase,vercel,vite,opencv,svg,tensorflow,php,ubuntu,aws,mysql,bun,github,figma,flutter,git,linux,npm,p5js,vscode&perline=12" />
   </a>
-<img align="left" alt="python" width="30px" style="padding: 0px 10px 10px 0px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain.svg" />
-<img align="left" alt="python" width="30px" style="padding: 0px 10px 10px 0px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
-<img align="left" alt="python" width="30px" style="padding: 0px 10px 10px 0px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
-</p>
 
 <br>
 <br>
