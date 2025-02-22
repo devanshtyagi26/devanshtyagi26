@@ -11,25 +11,15 @@ I'm a third-year undergraduate Computer Science student at Ramanujan College wit
 
 ### ⚙️ Languages and Tools
 
-<img align="left" alt="python" width="30px" style="padding: 0px 10px 10px 0px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" />
-<img align="left" alt="python" width="30px" style="padding: 0px 10px 10px 0px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
-<img align="left" alt="python" width="30px" style="padding: 0px 10px 10px 0px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
-<img align="left" alt="python" width="30px" style="padding: 0px 10px 10px 0px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
-<img align="left" alt="python" width="30px" style="padding: 0px 10px 10px 0px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="python" width="30px" style="padding: 0px 10px 10px 0px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,html,css,javascript,react,nodejs,express,next,mongo,bootstrap,netlify,firebase,vercel,vite,opencv,svg,tensorflow,php,ubuntu,aws,mysql,bun,github,figma,flutter,git,linux,npm,p5js,vscode&perline=8" />
+  </a>
 <img align="left" alt="python" width="30px" style="padding: 0px 10px 10px 0px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain.svg" />
 <img align="left" alt="python" width="30px" style="padding: 0px 10px 10px 0px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
-<img align="left" alt="python" width="30px" style="padding: 0px 10px 10px 0px"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-<img align="left" alt="python" width="30px" style="padding: 0px 10px 10px 0px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="python" width="30px" style="padding: 0px 10px 10px 0px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" />
 <img align="left" alt="python" width="30px" style="padding: 0px 10px 10px 0px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
-<img align="left" alt="python" width="30px" style="padding: 0px 10px 10px 0px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-<img align="left" alt="python" width="30px" style="padding: 0px 10px 10px 0px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-<img align="left" alt="python" width="30px" style="padding: 0px 10px 10px 0px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="python" width="30px" style="padding: 0px 10px 10px 0px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-<img align="left" alt="python" width="30px" style="padding: 0px 10px 10px 0px"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
-<img align="left" alt="python" width="30px" style="padding: 0px 10px 10px 0px"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/p5js/p5js-original.svg" />
-<img align="left" alt="python" width="30px" style="padding: 0px 10px 10px 0px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+</p>
+
 <br>
 <br>
 
