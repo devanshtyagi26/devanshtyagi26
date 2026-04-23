@@ -4,7 +4,7 @@
 
 ### Aspiring Data Scientist | AI/ML Engineer | Full-Stack Developer
 
-I'm a final-year Computer Science student (AI/ML specialization) at Ramanujan College, University of Delhi, with a **9.27 CGPA**. I engineer predictive neural network models, deploy real-time ML solutions using FastAPI and Next.js, and build full-stack applications. My blend of statistical thinking, deep learning expertise, and front-end craft lets me take projects from raw data all the way to polished user-facing products.
+I'm a final-year Computer Science student at Ramanujan College, University of Delhi, with a **9.27 CGPA**. I engineer predictive neural network models, deploy real-time ML solutions using FastAPI and Next.js, and build full-stack applications. My blend of statistical thinking, deep learning expertise, and front-end craft lets me take projects from raw data all the way to polished user-facing products.
 <br>
 
 ---
